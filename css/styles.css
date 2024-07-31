@@ -1,0 +1,52 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    color: #005677;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    line-height: 29.64px;
+    background-color: #C4C4C4;
+    height: 109px;
+    align-content: center;
+    text-align: center;
+}
+
+#subtitle {
+    color: #005677;
+    font-size: 20px;
+    background-color: #C4C4C4;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+
+.parrafo li {
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: justify;
+  }
+
+  .sangria {
+    margin-left: 92px;
+}
+
+.parrafo-principal {
+    font-size: 15px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    line-height: 12.7px;
+}
+h5 {
+    color:#FFFFFF;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 29.64px;
+    background-color: #005677;
+    height: 37PX;
+    align-content: center;
+    text-align: center;
+}
